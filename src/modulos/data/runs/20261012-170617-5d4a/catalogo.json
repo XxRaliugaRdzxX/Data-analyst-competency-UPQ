@@ -1,0 +1,32 @@
+{
+  "origen": "dataset_p92_limpio.csv",
+  "creado": "2026-10-12T17:06:17",
+  "catalogo": {
+    "p1 - datos": {
+      "titulo": "p1 - datos",
+      "tipo": "distribucion",
+      "archivo": "0001.parquet",
+      "filas": 41,
+      "columnas": [
+        "p1_compania",
+        "p92_miercoles_santo",
+        "p92_jueves_santo",
+        "p92_viernes_santo",
+        "p92_5_de_mayo",
+        "p92_10_de_mayo",
+        "p92_15_de_septiembre",
+        "p92_12_de_octubre",
+        "p92_1_de_noviembre",
+        "p92_2_de_noviembre",
+        "p92_12_de_diciembre",
+        "p92_24_de_diciembre",
+        "p92_31_de_diciembre",
+        "p92_matrimonio",
+        "p92_nacimiento",
+        "p92_defuncion_de_algun_familiar",
+        "p92_ninguno",
+        "p92_otro_especifique"
+      ]
+    }
+  }
+}

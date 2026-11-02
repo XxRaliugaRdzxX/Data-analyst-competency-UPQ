@@ -1,0 +1,42 @@
+p1_compania,p67_no_tengo_planes_de_contingencia,p67_asalto_a_mano_armada_dentro_de_la_planta,p67_emergencia_quimico_biologica,p67_huelga,p67_incendio,p67_inundacion,p67_terrorismo,p67_otro_especifique
+COMPAÑIA 1,0,1,1,1,1,1,1,
+COMPAÑIA 2,0,0,1,1,1,0,0,procedimientos  en caso de emergencia y programa interno de protección civil
+COMPAÑIA 3,0,0,1,0,1,0,0,plan de contingencia en temas de seguridad
+COMPAÑIA 4,0,1,1,1,1,1,0,
+COMPAÑIA 5,0,0,0,1,1,1,0,
+COMPAÑIA 6,0,0,1,1,1,1,1,
+COMPAÑIA 7,0,1,1,1,1,1,0,
+COMPAÑIA 8,0,0,1,0,1,1,1,
+COMPAÑIA 9,0,1,1,1,1,1,1,
+COMPAÑIA 10,0,0,0,0,0,0,0,
+COMPAÑIA 11,0,0,0,0,1,0,0,"Covid, busqueda y rescate, primeros auxilios "
+COMPAÑIA 12,0,0,1,0,1,0,0,
+COMPAÑIA 13,0,1,0,0,1,1,0,
+COMPAÑIA 14,0,0,1,1,1,0,0,
+COMPAÑIA 15,0,0,1,0,1,1,0,
+COMPAÑIA 16,0,0,0,1,1,1,1,
+COMPAÑIA 17,1,0,0,0,0,0,0,
+COMPAÑIA 18,0,0,1,1,1,1,1,
+COMPAÑIA 19,0,0,1,0,1,0,0,
+COMPAÑIA 20,0,0,0,1,1,1,0,Sismo
+COMPAÑIA 21,0,1,1,1,1,1,1,Ciber ataque
+COMPAÑIA 22,0,0,1,0,1,0,0,
+COMPAÑIA 23,0,0,0,0,0,0,0,
+COMPAÑIA 24,0,0,1,1,1,0,0,
+COMPAÑIA 25,0,1,1,0,1,1,0,
+COMPAÑIA 26,0,0,1,0,1,1,0,
+COMPAÑIA 27,0,0,0,0,0,0,0,
+COMPAÑIA 28,0,1,1,1,1,1,0,
+COMPAÑIA 29,0,1,1,0,1,1,1,COVID
+COMPAÑIA 30,0,0,1,0,1,0,0,
+COMPAÑIA 31,0,1,1,1,1,0,0,COVID
+COMPAÑIA 32,0,0,0,0,1,0,0,
+COMPAÑIA 33,0,1,1,1,1,1,0,
+COMPAÑIA 34,0,0,1,1,1,1,1,
+COMPAÑIA 35,0,0,0,0,1,0,0,
+COMPAÑIA 36,1,0,0,0,0,0,0,
+COMPAÑIA 37,0,0,0,0,0,0,0,
+COMPAÑIA 38,0,0,0,0,1,0,1,evacuacion
+COMPAÑIA 39,0,0,0,0,1,1,0,
+COMPAÑIA 40,0,0,0,0,1,0,0,
+,0,0,0,0,0,0,0,

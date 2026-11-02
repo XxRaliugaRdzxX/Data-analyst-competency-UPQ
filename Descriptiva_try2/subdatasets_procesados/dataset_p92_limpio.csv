@@ -1,0 +1,42 @@
+p1_compania,p92_miercoles_santo,p92_jueves_santo,p92_viernes_santo,p92_5_de_mayo,p92_10_de_mayo,p92_15_de_septiembre,p92_12_de_octubre,p92_1_de_noviembre,p92_2_de_noviembre,p92_12_de_diciembre,p92_24_de_diciembre,p92_31_de_diciembre,p92_matrimonio,p92_nacimiento,p92_defuncion_de_algun_familiar,p92_ninguno,p92_otro_especifique
+COMPAÑIA 1,0,0,1,0,0,0,0,0,0,1,0,0,1,1,1,0,
+COMPAÑIA 2,0,1,1,0,1,0,0,1,1,1,1,1,0,0,1,0,
+COMPAÑIA 3,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 4,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 5,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,Sábado Santo
+COMPAÑIA 6,0,0,1,0,0,0,0,0,0,1,1,1,1,1,1,0,
+COMPAÑIA 7,0,1,1,0,0,1,0,0,0,0,1,1,1,0,1,0,
+COMPAÑIA 8,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,0,
+COMPAÑIA 9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 10,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,
+COMPAÑIA 11,0,0,1,0,1,0,0,0,1,1,0,0,1,1,1,0,
+COMPAÑIA 12,0,0,1,1,0,1,0,0,0,0,1,1,1,1,1,0,
+COMPAÑIA 13,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,
+COMPAÑIA 14,0,1,1,0,0,0,0,0,0,1,0,0,1,0,1,0,
+COMPAÑIA 15,0,0,0,0,0,0,0,0,1,1,1,0,1,1,1,0,Día del cumpleaños de cada colaborador
+COMPAÑIA 16,0,1,1,0,0,0,0,0,0,0,0,0,1,1,1,0,
+COMPAÑIA 17,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,
+COMPAÑIA 18,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,
+COMPAÑIA 19,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,0,
+COMPAÑIA 20,0,1,1,0,0,0,0,0,0,1,1,1,1,1,1,0,
+COMPAÑIA 21,0,1,1,0,0,1,0,0,0,1,1,1,1,1,1,0,
+COMPAÑIA 22,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,
+COMPAÑIA 23,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,
+COMPAÑIA 24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 25,1,1,1,0,0,1,0,0,0,1,1,1,1,1,1,0,
+COMPAÑIA 26,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,
+COMPAÑIA 27,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,Ultima semana de diciembre
+COMPAÑIA 28,0,0,0,0,0,0,0,0,1,1,1,0,1,0,1,0,
+COMPAÑIA 29,0,0,1,0,0,0,0,0,1,1,1,1,1,1,1,0,"31 y 24 de diciembre, medio día."
+COMPAÑIA 30,0,0,0,0,1,1,0,0,0,1,0,0,1,0,0,0,
+COMPAÑIA 31,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,Evento LEALTAD por Antiguedad
+COMPAÑIA 32,0,1,1,0,1,0,0,0,0,1,1,1,1,1,1,0,día Flotante un día de más cuando lo requieran con vencimiento de 1 año calendario
+COMPAÑIA 33,0,1,1,0,0,0,0,0,0,0,1,1,1,1,1,0,Día de su Cumpleaños
+COMPAÑIA 34,0,0,1,0,0,0,0,0,1,1,0,0,1,1,1,0,
+COMPAÑIA 35,0,0,0,0,1,1,0,0,0,0,1,1,1,1,1,0,
+COMPAÑIA 36,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,CUMPLEAÑOS
+COMPAÑIA 37,0,0,0,0,0,0,0,0,0,1,0,0,1,1,1,0,"Matrimonio de hijos,  Aborto espontáneo de esposa"
+COMPAÑIA 38,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,
+COMPAÑIA 39,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,Cumpleaños
+COMPAÑIA 40,0,1,1,0,0,0,0,0,0,1,1,1,0,0,1,0,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

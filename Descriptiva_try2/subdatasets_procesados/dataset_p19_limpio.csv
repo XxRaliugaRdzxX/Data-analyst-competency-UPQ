@@ -1,0 +1,42 @@
+p1_compania,p19_salario_de_ingreso_en_entrenamiento_tiempo_meses,p19_salario_de_ingreso_en_entrenamiento_poblacion_porcentaje,p19_salario_de_ingreso_en_entrenamiento_escolaridad,p19_salario_intermedio_bajo_bajo_supervision_tiempo_meses,p19_salario_intermedio_bajo_bajo_supervision_poblacion_porcentaje,p19_salario_intermedio_bajo_bajo_supervision_escolaridad,p19_salario_intermedio_alto_sin_supervision_tiempo_meses,p19_salario_intermedio_alto_sin_supervision_poblacion_porcentaje,p19_salario_intermedio_alto_sin_supervision_escolaridad,p19_maximo_tiempo_meses,p19_maximo_poblacion_porcentaje,p19_maximo_escolaridad
+COMPAÑIA 1,1 Mes,0.2,Primaria,6 Meses,0.45,Secundaria,12 Meses,0.25,Preparatoria / Bachillerato,24 Meses,0.1,Preparatoria / Bachillerato
+COMPAÑIA 2,3 Meses,0.3,Secundaria,12 Meses,0.45,Preparatoria / Bachillerato,12 Meses,0.2,Preparatoria / Bachillerato,12 Meses,0.05,Preparatoria / Bachillerato
+COMPAÑIA 3,3 Meses,Ninguno,Secundaria,6 Meses,0.0,Secundaria,6 Meses,0.0,Secundaria,6 Meses,Ninguno,Secundaria
+COMPAÑIA 4,3 Meses,0.1,Preparatoria / Bachillerato,3 Meses,0.1,Preparatoria / Bachillerato,6 Meses,0.3,Técnico / TSU,24 Meses,0.35,Técnico / TSU
+COMPAÑIA 5,3 Meses,0.35,Secundaria,6 Meses,0.35,Secundaria,12 Meses,0.25,Secundaria,12 Meses,0.05,Secundaria
+COMPAÑIA 6,1 Mes,0.35,Secundaria,3 Meses,0.25,Secundaria,6 Meses,0.25,Secundaria,9 Meses,0.15,Secundaria
+COMPAÑIA 7,3 Meses,0.05,Primaria,3 Meses,0.2,Secundaria,6 Meses,0.25,Preparatoria / Bachillerato,6 Meses,0.15,Preparatoria / Bachillerato
+COMPAÑIA 8,6 Meses,menos del 5%,Secundaria,6 Meses,0.15,Secundaria,6 Meses,0.55,Secundaria,6 Meses,0.25,Preparatoria / Bachillerato
+COMPAÑIA 9,3 Meses,0.5,Secundaria,6 Meses,0.5,Secundaria,6 Meses,0.5,Secundaria,6 Meses,0.5,Secundaria
+COMPAÑIA 10,3 Meses,0.4,Secundaria,6 Meses,0.3,Secundaria,12 Meses,0.1,Secundaria,18 Meses,0.05,Secundaria
+COMPAÑIA 11,12 Meses,0.3,Primaria,12 Meses,0.3,Secundaria,24 Meses,0.3,Preparatoria / Bachillerato,36 Meses,0.3,Técnico / TSU
+COMPAÑIA 12,3 Meses,0.2,Secundaria,3 Meses,0.3,Secundaria,6 Meses,0.25,Preparatoria / Bachillerato,6 Meses,0.25,Técnico / TSU
+COMPAÑIA 13,3 Meses,0.3,Secundaria,9 Meses,0.2,Secundaria,6 Meses,0.3,Secundaria,12 Meses,0.2,Preparatoria / Bachillerato
+COMPAÑIA 14,1 Mes,0.1,Secundaria,6 Meses,0.3,Secundaria,12 Meses,0.4,Secundaria,12 Meses,0.2,Secundaria
+COMPAÑIA 15,1 Mes,0.2,Secundaria,3 Meses,0.35,Secundaria,9 Meses,0.35,Preparatoria / Bachillerato,12 Meses,0.1,Preparatoria / Bachillerato
+COMPAÑIA 16,3 Meses,0.3,Primaria,6 Meses,0.15,Primaria,9 Meses,0.5,Primaria,12 Meses,0.05,Primaria
+COMPAÑIA 17,3 Meses,0.1,Secundaria,12 Meses,0.35,Preparatoria / Bachillerato,12 Meses,0.2,Técnico / TSU,12 Meses,0.3,Técnico / TSU
+COMPAÑIA 18,1 Mes,0.1,Secundaria,3 Meses,0.25,Secundaria,6 Meses,0.35,Secundaria,12 Meses,0.3,Secundaria
+COMPAÑIA 19,12 Meses,0.05,Preparatoria / Bachillerato,24 Meses,0.65,Preparatoria / Bachillerato,48 Meses,0.25,Técnico / TSU,60 Meses,0.05,Técnico / TSU
+COMPAÑIA 20,,0.35,Secundaria,6 Meses,0.4,Secundaria,9 Meses,0.1,Técnico / TSU,9 Meses,0.15,Técnico / TSU
+COMPAÑIA 21,3 Meses,0.25,Secundaria,9 Meses,0.35,Secundaria,18 Meses,0.25,Preparatoria / Bachillerato,60 Meses,0.15,Preparatoria / Bachillerato
+COMPAÑIA 22,6 Meses,0.1,Secundaria,9 Meses,0.1,Secundaria,12 Meses,0.2,Secundaria,24 Meses,0.1,Preparatoria / Bachillerato
+COMPAÑIA 23,1 Mes,0.05,Secundaria,3 Meses,0.2,Secundaria,6 Meses,0.6,Secundaria,9 Meses,0.15,Secundaria
+COMPAÑIA 24,12 Meses,0.45,Secundaria,12 Meses,0.15,Secundaria,18 Meses,0.35,Secundaria,24 Meses,menos del 5%,Preparatoria / Bachillerato
+COMPAÑIA 25,6 Meses,0.05,Secundaria,12 Meses,0.25,Secundaria,24 Meses,0.2,Secundaria,48 Meses,0.5,Secundaria
+COMPAÑIA 26,3 Meses,0.2,Secundaria,3 Meses,0.25,Secundaria,6 Meses,0.25,Secundaria,18 Meses,0.3,Técnico / TSU
+COMPAÑIA 27,3 Meses,0.05,Universidad / Ingeniería,3 Meses,0.05,Universidad / Ingeniería,3 Meses,0.05,Universidad / Ingeniería,3 Meses,0.05,Universidad / Ingeniería
+COMPAÑIA 28,6 Meses,0.3,Secundaria,12 Meses,0.3,Secundaria,24 Meses,0.25,Secundaria,36 Meses,0.15,Preparatoria / Bachillerato
+COMPAÑIA 29,6 Meses,0.3,Secundaria,18 Meses,0.25,Preparatoria / Bachillerato,24 Meses,0.15,Preparatoria / Bachillerato,36 Meses,0.1,Preparatoria / Bachillerato
+COMPAÑIA 30,3 Meses,menos del 5%,Secundaria,12 Meses,0.35,Secundaria,24 Meses,0.3,Secundaria,24 Meses,0.3,Preparatoria / Bachillerato
+COMPAÑIA 31,1 Mes,0.1,Secundaria,3 Meses,0.3,Secundaria,6 Meses,0.3,Secundaria,6 Meses,0.3,Secundaria
+COMPAÑIA 32,6 Meses,Ninguno,Secundaria,3 Meses,0.1,Secundaria,12 Meses,0.25,Secundaria,12 Meses,0.25,Secundaria
+COMPAÑIA 33,3 Meses,0.05,Secundaria,6 Meses,0.1,Preparatoria / Bachillerato,12 Meses,0.4,Preparatoria / Bachillerato,18 Meses,0.45,Preparatoria / Bachillerato
+COMPAÑIA 34,3 Meses,0.1,Preparatoria / Bachillerato,12 Meses,0.3,Preparatoria / Bachillerato,18 Meses,0.5,Preparatoria / Bachillerato,60 Meses,0.1,Preparatoria / Bachillerato
+COMPAÑIA 35,3 Meses,0.4,Primaria,3 Meses,0.3,Primaria,12 Meses,0.2,Secundaria,36 Meses,0.1,Técnico / TSU
+COMPAÑIA 36,3 Meses,0.3,Primaria,6 Meses,0.45,Primaria,12 Meses,0.15,Primaria,24 Meses,0.1,Primaria
+COMPAÑIA 37,6 Meses,menos del 5%,Técnico / TSU,12 Meses,0.55,Técnico / TSU,18 Meses,0.35,Técnico / TSU,18 Meses,0.05,Técnico / TSU
+COMPAÑIA 38,1 Mes,0.15,Secundaria,3 Meses,0.1,Secundaria,6 Meses,0.15,Secundaria,12 Meses,0.6,Secundaria
+COMPAÑIA 39,3 Meses,0.45,Secundaria,9 Meses,0.2,Secundaria,12 Meses,0.3,Secundaria,24 Meses,menos del 5%,Secundaria
+COMPAÑIA 40,3 Meses,menos del 5%,Secundaria,6 Meses,0.4,Secundaria,24 Meses,0.3,Técnico / TSU,48 Meses,0.25,Técnico / TSU
+,,,,,0.0,,,0.0,,,,

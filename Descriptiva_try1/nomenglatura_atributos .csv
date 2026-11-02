@@ -1,0 +1,337 @@
+p1,Compañía
+p2,¿Su compañía cuenta con alguna Confederación Sindical (Sindicato)?
+p3,"Seleccione el o los procesos que realiza su compañía.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p4,"Seleccione la principal categoría de su compañía de acuerdo a sus procesos.En caso que el modelo no se ajuste a su compañía, por favor seleccione la casilla más cercana"
+p5,"En caso de ser proveedor automotriz, seleccione su Nivel de Proveeduría Automotriz:Considere que: Se denomina OEM al fabricante de equipos originales (Original Equipment Manufacturer), las cuales son una marca (GM, Mazda, VW, Honda, Toyota, FORD).Las compañías Tier 1 son proveedores directos para empresas OEM, mientras que las compañías Tier 2 son los proveedores un Tier 1, (no suministran productos a compañías OEM)."
+p6,"Seleccione la o las compañías armadoras a las cuales es proveedor directo.En caso que el modelo no se ajuste a su compañía, por favor seleccione la casilla más cercana"
+p7,"Por favor, seleccione el nombre de su Confederación Sindical (Sindicato)"
+p8,¿Cómo calificaría la relación actual entre su compañía y el sindicato?
+p9,"Número de Empleados Actual de Personal Operativo (""Sindicalizados"").En caso de no contar con este tipo de personal capturar 0. Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p10,"Número de Empleados Personal Administrativo (""Staff"").En caso de no contar con este tipo de personal capturar 0. Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p11,"En caso de contar con otro tipo de personal que labora en su compañía, especifique su número de empleados actual.En caso de no contar con este tipo de personal capturar 0. Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p12,"¿Qué proporción hay de mujeres y hombres?Tomando el 100% de su headcount actual, ¿Qué porcentaje de su población son Mujeres y qué porcentaje Hombres?Considere que ambas cantidades deben sumar 100Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Por ejemplo:
+
+
+
+Porcentaje Mujeres
+35
+
+
+Porcentaje Hombres
+75
+
+
+TOTAL
+100
+
+
+
+"
+p13,"En proporción ¿Cómo se encuentra distribuido su personal de acuerdo a su edad?Tomando el 100% de su headcount actual, considere las siguientes generaciones:
+
+más de 50 años de edad - Baby Boomers - 1946 y 1960
+de 38 años a 50 años de edad - Generación X - 1961 y 1980
+de 23 años a 37 años de edad - Millennials - 1981 y 1995
+menos de 22 años de edad - Generación Z - 1996 en adelante
+
+Considere que las cantidades deben sumar 100Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas. En caso de no medir ese indicador capturar 0.Por ejemplo:
+
+
+
+Babyboomers
+10
+
+
+Millennials
+70
+
+
+Generación Z
+20
+
+
+TOTAL
+100
+
+
+"
+p14,"Por favor, capture el Salario Diario Inicial ofrecido a su personal operativo. El salario inicial corresponde al salario ofrecido durante el periodo de entrenamiento.Este campo solo admite números decimales. Omitir signos de moneda y/o comas.Rango 248.93  - 900.00"
+p15,"Por favor, capture el Salario Diario Intermedio - Bajo ofrecido a su personal operativo. El Salario Intermedio - Bajo corresponde al salario ofrecido a personal que requiere trabajar bajo supervisión.Este campo solo admite números decimales. Omitir signos de moneda y/o comas.Rango 248.93 - 900.00"
+p16,"Por favor, capture el Salario Diario Intermedio - Alto ofrecido a su personal operativo. El salario intermedio - alto, corresponde al salario ofrecido a personal que puede trabajar sin necesidad de supervisión.Este campo solo admite números decimales. Omitir signos de moneda y/o comas.Rango 248.93 - 900.00"
+p17,"Por favor, capture el Salario Diario Máximo ofrecido a su personal operativo. El salario Máximo, se le otorga al personal que puede entrenar a otros o que cuenta con multihabilidad para realizar varias actividades.Este campo solo admite números decimales. Omitir signos de moneda y/o comas.Rango 248.93 - 900.00"
+p18,"Avance - 30% El personal que ocupa esta última categoría, ¿Tiene personal a su cargo?En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p19,"Seleccione el tiempo mínimo transcurrido entre cada ascenso de categoría, así como el porcentaje de personal que tiene en esa categoría y nivel promedio de escolaridad.De acuerdo a los datos capturados en la sección anterior:
+
+
+
+Ingreso
+Intermedio - Bajo
+Intermedio - Alto
+Máximo
+
+
+ $[P55]
+ $[P56]
+ $[P57]
+ $[P58]
+
+
+
+En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p20,"Entendiendo que este modelo salarial de 4 categorías para su personal operativo no es general para todos los casos, por favor indíquenos si cuenta con otro esquema para sus posiciones operativas."
+p21,"Por favor, seleccione la o las posiciones Técnicas que tiene laborando en su compañía:Selecciona al menos una (1) opción."
+p22,"SALARIO MÍNIMO MENSUAL:Este campo solo admite números Enteros. Omitir símbolos de moneda, comas y/o puntos.Rango 5000 (Cinco mil) a 30000 (Treinta mil)."
+p23,SALARIO PROMEDIO MENSUAL:Este campo solo admite números Enteros. Omitir símbolos de moneda y/o comas.Rango 5000 (Cinco mil) a 30000 (Treinta mil).
+p24,SALARIO MÁXIMO MENSUAL:Este campo solo admite números Enteros. Omitir símbolos de moneda y/o comas.Rango 5000 (Cinco mil) a 30000 (Treinta mil).
+p25,"Por favor indique en promedio, cuántos empleados tiene dentro de cada posición.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p26,Semestral - 25% ¿Deseas continuar ahora  con el resto de la encuesta para actualizar toda su información o requieres tomar un break?
+p27,Bimestre - 20% Seleccione el BIMESTRE a reportar:
+p28,"Por favor, capture el TOTAL DE CONTRATACIONES que realizó durante el último bimestre.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo contrataciones, capturar 0 (Cero)."
+p29,"De la contrataciones de la pregunta anterior, ESPECIFIQUE: Contrataciones realizadas por puestos de Nueva Creación y Contrataciones realizadas para cubrir bajas.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo contrataciones, capturar 0 (Cero)."
+p30,"¿Cuál es el nivel de escolaridad mínimo para su personal operativo?Por favor, seleccione al menos una opción."
+p31,"Avance - 40% ¿Cuántos días hábiles (Lunes a Viernes)  tarda en promedio para reclutar y contratar personal?En caso de no contar con la posición, seleccionar 0 (cero)En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p32,"De acuerdo a su criterio, de cada 10 candidatos entrevistados para ocupar un puesto operativo, ¿cuántos acreditan los requisitos para laborar en su compañía?.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p33,"Del 100% de sus candidatos de nivel operativo, por favor capture el porcentaje en cuanto a los motivos por los cuales son rechazados.Por ejemplo:""el 50% de mis rechazos son por problemas con el Antidoping, 30% por falta de experiencia en la industria, 20% por Escolaridad.""
+
+
+
+Antidoping
+50
+
+
+Falta de experiencia
+30
+
+
+Escolaridad
+20
+
+
+TOTAL
+100
+
+
+
+Considere que la suma de todos los motivos debe ser igual a 100. Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p34,"Bimestre - 40% Capture el NÚMERO DE BAJAS que tuvo durante el BIMESTRE [P68].Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo bajas, capturar 0 (Cero)."
+p35,"DESGLOSE LAS BAJAS DEL BIMESTRE de acuerdo a cómo se presentaron durante el periodo.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo bajas, capturar 0 (Cero)."
+p36,"Del total de bajas bimestral, [P75]. Desglose de acuerdo al tipo de empleado (Operativo y Administrativo).Procure que la suma de todas las cantidades sea igual al total de bajas reportadas.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo bajas, capturar 0 (cero)."
+p37,"Del total de bajas del bimestre, [P75]. Desglose el número de bajas de acuerdo a lo siguiente:Procure que la suma de todas las cantidades sea igual al total de bajas reportadas.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo bajas, capturar 0 (cero)."
+p38,"¿Sufrieron algún tipo de afectación a raíz de la rotación de personal durante este periodo? Por favor describir qué afectaciones se presentaron, por ejemplo algún paro en línea de producción, tiempo, gastos extras, etc"
+p39,"¿Qué antigüedad tenían los empleados que fueron bajas?De las [P75] bajas del Bimestre, por favor capture el porcentaje aproximado de acuerdo a la antigüedad que tenían los empleados.Por Ejemplo:""El 60% del personal que se dió de baja en el bimestre tenían trabajando menos de 1 mes, un 20% tenían alrededor de 1 a 3 años en la compañía y el otro 20% tenían más de 3 años trabajando con nosotros"".
+
+
+
+Antigüedad
+Porcentaje
+
+
+0 a 1 mes
+60
+
+
+1 a 3 años
+20
+
+
+Más de 3 años
+20
+
+
+TOTAL
+100
+
+
+
+Este campo solo admite números enteros. Omitir símbolos de moneda, comas o porcentajes.Considere que la suma de todas las opciones debe ser igual a 100.En caso de no contar con este dato, seleccione ""no aplica"""
+p40,"¿Qué edad tenían los empleados que fueron bajas?Tomando sus [P75] bajas totales del Bimestre, por favor, capture el porcentaje aproximado de bajas de acuerdo a los siguientes rangos de edad:
+
+Más de 50 años de edad (Baby Boomers - 1946 y 1960),
+de 38 años a 50 años de edad (Generación X - 1961 y 1980),
+de 31 años a 37 años de edad (Millennials - 1981 y 1987),
+de 23 años a 30 años de edad (Millennials - 1988 y 1995),
+menos de 22 años de edad (Generación Z - 1996 en adelante)
+
+Considere que la suma de todas las opciones debe ser igual a 100.Por Ejemplo:""El 10% del personal que se dió de baja en el bimestre tenían más de 50 años de edad, el 70% eran jóvenes de menos de 30 años y el 20% tenían 20 años aproximadamente."".
+
+
+
+Edad / Generación
+Porcentaje
+
+
+Baby Boomer (más de 50 años)
+10
+
+
+Millennials (23 a 37 años)
+70
+
+
+Generación Z (menos de 22 años)
+20
+
+
+TOTAL
+100
+
+
+
+En caso de no contar con este dato, seleccione ""No Aplica"""
+p41,Bimestre - 60% TOTAL de FALTAS que tuvo durante el bimestre.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.
+p42,"FALTAS DE PERSONAL OPERATIVO (Justificado e injustificado)Procure que la suma de las cantidades corresponda al total de las faltas reportadas.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo faltas, capturar 0 (Cero)."
+p43,"DESGLOSE LAS FALTAS DE PERSONAL ADMINISTRATIVO (Justificado e injustificado)Procure que la suma de las cantidades corresponda al total de faltas reportadas.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo faltas, capturar 0 (Cero)."
+p44,¿Registraron alguna incapacidad?Tome en cuenta aquellas que que fueron por Riesgo de Trabajo - Enfermedad General y/o Maternidad.
+p45,"¿Sufrieron algún tipo de afectación a raíz del ausentismo de personal durante este periodo? Por favor describir qué afectaciones se presentaron, por ejemplo algún paro en línea de producción, tiempo, gastos extras, etc."
+p46,"Por favor, capture el TOTAL DE CASOS DE INCAPACIDAD que tuvo durante el bimestre. Tomen en cuenta Riesgos o accidentes de trabajo, Enfermedad General y/o Embarazo.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.En caso de no haber tenido alguna capture Cero - 0."
+p47,"Por favor, desglose el número de incapacidades que se presentaron en el bimestre.Desglose de acuerdo a: Riesgo de Trabajo, Enfermedad General y/o MaternidadProcure que la suma de las cantidades corresponda al total de incapacidades reportadas.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo faltas, capturar 0 (Cero)."
+p48,"En caso de haber presentado algún accidente de trabajo en el Bimestre, ¿Qué tipo de incapacidad generó?Considere aquellos accidentes que se presentaron con motivo del trabajo, así como los que se produjeron al trasladarse el trabajador directamente de su domicilio al lugar del trabajo y de éste a aquél.Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas.Si no tuvo accidentes, capturar 0 (Cero)."
+p49,"¿Sufrieron algún tipo de afectación a raíz de alguna incapacidad de personal durante este periodo? Por favor describir qué afectaciones se presentaron, por ejemplo algún paro en línea de producción, tiempo, gastos extras, etc."
+p50,"Por favor, capture el TOTAL DE HORAS DE CAPACITACIÓN INVERTIDAS EN EL BIMESTRE.Por favor desglose las horas que fueron para su personal operativo y personal administrativo.Este campo solo admite valores numéricos. Omitir símbolos de moneda y/o comas.En caso de que su compañía no calcule dicho valor, favor de dejar el campo vacío."
+p51,"De acuerdo al siguiente listado, actualmente, ¿Qué perfiles se encuentra desarrollando en su compañía?Considere si se encuentra desarrollándolos internamente o por medio de alguna institución externa.Si el modelo no se ajusta a su compañía, por favor seleccionar la opción más cercana.En caso de que no se encuentre desarrollando algún perfil, seleccionar ""No Aplica""."
+p52,¿Cuál es Estatus Actual de su Negociación de Contrato Colectivo - Revisión de Incrementos de Salarios y Beneficios para el 2024?
+p53,"Por favor, comparta el porcentaje de incrementos de SALARIOS Y BENEFICIOS  que haya otorgado en este año; considere los incrementos para su personal operativo y administrativo respectivamente.En caso de no tener considerado algún incremento, por favor seleccione la opción ""N/A""."
+p54,"Por favor, seleccione el mes o los meses cuando realizan los incrementos de este año para su personal."
+p55,"De acuerdo al porcentaje de incremento en Prestaciones, seleccione el o los beneficios que se incluyen en este incremento.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p56,"¿Qué porcentaje de incremento salarial y de prestaciones consideran otorgar este año, tanto a su personal operativo y administrativo respectivamente?"
+p57,"Por favor, seleccione el mes o los meses cuando estiman realizar los incrementos de este año para su personal."
+p58,"De acuerdo al porcentaje de incremento en Prestaciones, seleccione el o los beneficios que se incluyen en este incremento.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana..1"
+p59,"Bimestre - 80% Considerando el mes en curso y el siguiente mes, ¿Tendrá contrataciones para niveles operativos y/o administrativos?"
+p60,"Por favor, seleccione sus principales fuentes de reclutamiento que comúnmente utilizan para todas sus contrataciones de Personal.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p61,"De acuerdo a su headcount actual (total de empleados), en porcentaje, ¿Cuántos colaboradores se trasladan desde otros Estados o municipios?En caso de que el modelo no se ajuste a su compañía, seleccionar la casilla más cercana.En caso de no contar con la información, seleccionar la opción ""Desconocido""."
+p62,"Por favor, capture el número de PLAZAS OPERATIVAS y PLAZAS ADMINISTRATIVAS próximas a cubrir durante el mes en curso y el próximo mes.Considere que actualmente cuenta con [P50] empleados operativos y [P51] empleados administrativos.Ingresa un número entero. No se aceptan decimales, porcentajes ni caracteres que no sean numéricosEn caso de no tener contrataciones capturar 0 (cero)."
+p63,"Considerando el mes en curso y el próximo mes, seleccione el número más cercano que de vacantes a cubrir de nivel OPERATIVO EN GENERAL, de acuerdo a su Especialización y Escolaridad requerida.No es necesario capturar todas las opciones.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p64,"Considerando el mes en curso y el próximo mes, seleccione el número más cercano que de vacantes a cubrir de nivel TÉCNICO EN GENERAL, de acuerdo a su Especialización y Escolaridad requerida.No es necesario capturar todas las opciones.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p65,"Considerando el mes en curso y el próximo mes, seleccione el número más cercano que de vacantes a cubrir de nivel ADMINISTRATIVO - GERENCIA, de acuerdo a su Especialización y Escolaridad requerida.No es necesario capturar todas las opciones.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p66,"¿Cuántos citatorios conciliatorios provenientes del (Centro de Conciliación ó PROFEDET), así como demandas provenientes del tribunal local y/o tribunal federal de conciliación recibieron en el periodo?"
+p67,"Seleccione los planes de contingencia con los que cuenta su empresa.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Seleccione al menos una (1) opción."
+p68,"¿Tiene información que desearía compartir sobre temas de seguridad o conflictos sindicales en la región que hayan sido relevantes durante el último bimestre? Robos, asaltos, huelgas, etc.Seleccione al menos una opción."
+p69,"Por favor, comparta con las afectaciones principales ante los problemas Sindicales que se presentaron:En caso que el modelo no se ajuste a su caso, seleccione ""N/A""."
+p70,Por favor comparta alguna otra situación que hayan padecido derivado de algún conflicto laboral.
+p71,"Seleccione alguno de los problemas o situaciones de riesgo que su compañía y/o empleados hayan presentado durante el bimestre.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Seleccione al menos una (1) opción."
+p72,"Tomando en cuenta su selección anterior, por favor detalle las situaciones que se presentaron."
+p73,"Tomando su selección anterior, especifique la ubicación de los hechos"
+p74,"Tomando su selección anterior, especifique si se levanto algún tipo de denuncia ante las autoridades o ministerio público."
+p75,Semestral - 50% ¿Desean continuar con el resto de la encuesta o desean tomar un break?
+p76,"Avance - 50% ¿Cuántos empleados operativos eran hace 1 año (Enero 2023)?En caso de no haber tenido crecimiento, por favor capturar la misma cantidad que reportó ([P50]).Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p77,"¿Cuántos empleados administrativos eran hace 1 año (Enero 2023)?En caso de no haber tenido crecimiento, por favor capturar la misma cantidad que reportó ([P51]).Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p78,"¿Cuál es el promedio de rotación mensual de los últimos seis meses que tiene su compañía?Por favor, seleccione el promedio de ROTACIÓN VOLUNTARIA e INVOLUNTARIA de su personal operativo y administrativo respectivamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.En caso de no contar con este indicador, seleccionar ""Desconocido"""
+p79,"Por favor, clasifique los siguientes motivos de baja de acuerdo a la frecuencia de cómo se presentan en su compañía.Considere una escala del 0 al 5:
+
+0 - Nunca
+1 - Muy poco común (1 de cada 10 bajas son por esta razón)
+2 - Poco común (3 de cada 10 bajas son por esta razón)
+3 - Común (5 de cada 10 bajas son por esta razón)
+4 - Casi siempre (7 de cada 10 bajas son por esta razón)
+5 - Siempre (Todas las bajas son por esta razón
+
+En caso de no contar con este indicador, seleccionar ""No Aplica"""
+p80,"Por favor, capture el PROMEDIO MENSUAL DE AUSENTISMO JUSTIFICADO E INJUSTIFICADO E INCAPACIDAD de los últimos seis meses de su personal Operativo y Administrativo respectivamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.En caso de no contar con este indicador, seleccionar ""Desconocido""."
+p81,"Por favor, capture el número aproximado de Días perdidos en el último año (Enero a Diciembre 2023)  a causa de accidentes de trabajo.No incluir accidentes de trayecto al trabajo.El campo no acepta valores decimales, porcentajes ni caracteres que no sean numéricosEn caso de no haber perdido días, capturar 0 (cero)."
+p82,"Por favor, especifique el porcentaje de VALES DE DESPENSA y FONDO DE AHORRO ofertado a su personal OPERATIVO, ADMINISTRATIVO Y GERENCIAL.En caso de no ofrecer la prestación, favor de capturar la clave ""N/A"".En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p83,"Por favor, especifique el porcentaje de PRIMA VACACIONAL ofertado a su personal OPERATIVO, ADMINISTRATIVO Y GERENCIAL.En caso de no ofrecer la prestación, favor de capturar la clave ""N/A"".En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p84,"Por favor, especifique el porcentaje de BONO DE ASISTENCIA, BONO DE PUNTUALIDAD Y BONO DE PRODUCTIVIDAD ofertado (Solo aplica para personal operativo). En caso de no ofrecer la prestación, favor de capturar la clave ""N/A""En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p85,"Por favor, seleccione el monto aproximado que ofrece a sus empleados en cuanto a: AYUDA POR NACIMIENTO y AYUDA POR DEFUNCIÓN. (Solo aplica para personal operativo).En caso de no ofrecer la prestación, favor de capturar la clave ""N/A"".En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p86,"Por favor, especifique los días de vacaciones que proporciona a su personal OPERATIVO, ADMINISTRATIVO Y GERENCIAL por año.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Es necesario contestar todas las casillas."
+p87,"Por favor, especifique los días de AGUINALDO que proporciona a su personal OPERATIVO, ADMINISTRATIVO Y GERENCIAL por año.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Es necesario contestar todas las casillas."
+p88,"Por favor, especifique la cantidad de UNIFORMES que proporciona a su personal OPERATIVO Y ADMINISTRATIVO por año.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p89,¿Sus colaboradores cuentan con servicio médico dentro del lugar de trabajo?
+p90,"¿Cuentan con alguna opción de ""Retiro Anticipado"" para su personal? "
+p91,"¿Cuántos días de descanso adicionales otorga a su personal operativo?En caso de no otorgar días adicionales, seleccione ""0""."
+p92,"Adicional a los días festivos de ley, ¿Qué otros días de descanso otorga a sus empleados?"
+p93,"¿Otorgaran Utilidades y/o bono sustituto en este año 2024?Ejercicio 2023, otorgado en el 2023.Por favor seleccione al menos una opción."
+p94,"¿Cuál es el monto PROMEDIO en pesos - MXN por cada trabajador que tiene considerado otorgar para este año? Este campo solo acepta valores numéricos. Omitir valores decimales, símbolos de porcentaje y/o moneda."
+p95,¿Reciben sus directores reparto de utilidades y/o bono sustituto?
+p96,"Por favor seleccione, el o los medios por los cuales se les hace el comunicando a sus trabajadores."
+p97,Por favor compártenos alguna otra acción o estrategia que hayan planeado en su compañía para asegurarse que todos los interesados estén informados y reciban su respectiva prestación.
+p98,Avance - 70% ¿Otorga Seguro de Gastos Médicos Mayores como prestación a sus empleados?
+p99,SGMM - ¿A qué personal le ofrece la prestación de Seguro de Gastos Médicos Mayores?
+p100,"¿Cuántos colaboradores hacen uso efectivo de esta prestación?Arrastre la barra o capture el porcentaje del personal que usa este beneficio.Considere el 100% como todos los colaboradores que tienen este beneficio lo usan activamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana."
+p101,"SGMM - ¿Cuál es el costo promedio de la póliza del Seguro de Gastos Médicos Mayores por año?Por favor, especifique cual es costo TOTAL DE LA PÓLIZA,  la cual incluye a TODOS los trabajadores y/o adicionales a los dados de alta.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p102,"SGMM - Además de cubrir al empleado, ¿Este seguro cubre a su familia?"
+p103,¿Otorga Seguro de Vida como prestación a sus empleados?
+p104,Seguro de Vida - ¿A qué personal le ofrece la prestación de Seguro de Vida?
+p105,"¿Cuántos colaboradores hacen uso efectivo de esta prestación?Arrastre la barra o capture el porcentaje del personal que usa este beneficio.Considere el 100% como todos los colaboradores que tienen este beneficio lo usan activamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana..1"
+p106,"Seguro de Vida - ¿Cuál es el costo promedio de la póliza del Seguro de Vida por año?Especifique el costo TOTAL DE LA PÓLIZA, la cual incluye a TODOS los trabajadores y/o adicionales dados de alta.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p107,"Seguro de Vida - Además de cubrir al empleado, ¿Este seguro cubre a su familia?"
+p108,¿Asigna un Automóvil de la compañía como prestación a sus empleados?
+p109,"Asignación de Automóvil - ¿Qué tipo de auto se le asigna, con que frecuencia se cambia de modelo y si se le asigna chofer a su personal de acuerdo a cada tipo de empleado?En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla ""No Aplica""."
+p110,"¿Cuántos colaboradores hacen uso efectivo de esta prestación?Arrastre la barra o capture el porcentaje del personal que usa este beneficio.Considere el 100% como todos los colaboradores que tienen este beneficio lo usan activamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana..2"
+p111,"Asignación de Automóvil - ¿Qué tipo de plan utiliza su compañía para la adquisición de sus vehículos?En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p112,"Asignación de Automóvil - Por favor seleccione si la compañía cubre alguno de estos servicios:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p113,¿Otorga Apoyo de Gasolina como prestación a sus empleados?
+p114,Gasolina - ¿A qué personal le ofrece la prestación de Gasolina?
+p115,"¿Cuántos colaboradores hacen uso efectivo de esta prestación?Arrastre la barra o capture el porcentaje del personal que usa este beneficio.Considere el 100% como todos los colaboradores que tienen este beneficio lo usan activamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana..3"
+p116,"Gasolina - ¿Cuánto es el presupuesto Mensual Promedio por Persona que se asigna para Gasolina?En caso de que el modelo no se ajuste a su compañía, favor de capture el valor más cercano.Este campo solo admite valores numéricos. Omitir símbolos de moneda y/o comas."
+p117,¿Otorga algún Apoyo de automóvil como prestación adicional a sus empleados que usan su vehículos personales para actividades relacionadas con el trabajo?
+p118,Apoyo Mantenimiento de Auto - ¿A qué personal le ofrece la prestación de Apoyo de automóvil?
+p119,"¿Cuántos colaboradores hacen uso efectivo de esta prestación?Arrastre la barra o capture el porcentaje del personal que usa este beneficio.Considere el 100% como todos los colaboradores que tienen este beneficio lo usan activamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana..4"
+p120,"Apoyo Mantenimiento de Auto - ¿Cuánto paga POR KILÓMETRO RECORRIDO para el Mantenimiento de Automóvil Personal de sus empleados?En caso de que el modelo no se ajuste a su compañía, favor de capture el valor más cercano.Este campo solo admite valores numéricos. Omitir símbolos de moneda y/o comas."
+p121,"Apoyo Mantenimiento de Auto - Por favor seleccione si la compañía cubre alguno de estos servicios:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p122,¿Otorga Servicio de Transporte de Personal como prestación a sus empleados?
+p123,Transporte - ¿A qué personal le ofrece la prestación de Transporte?
+p124,"¿Cuántos colaboradores hacen uso efectivo de esta prestación?Arrastre la barra o capture el porcentaje del personal que usa este beneficio.Considere el 100% como todos los colaboradores que tienen este beneficio lo usan activamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana..5"
+p125,"Transporte - ¿Cuántas rutas de transporte tiene asignadas para su personal?Por favor, considere rutas por turno. Por ejemplo, 
+
+Si tiene 8 rutas los tres turnos de trabajo; 
+
+8 x 3 =24 rutas total.
+
+
+Si tiene 8 rutas durante dos turnos + solamente 2 rutas en tercer turno;
+
+8 + 8 + 2 = 18 rutas total
+
+
+
+En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p126,"Transporte - ¿Cuál es costo promedio mensual por persona de su servicio de transporte?El costo promedio mensual se calcula de la siguiente manera:
+
+Identifique el monto total pagado a su compañía de transporte durante el mes anterior, y dividirlo entre su total de Headcount. 
+
+Por ejemplo: una planta de 100 empleados, que pagó una factura de $200,000 mxn. 
+Realizaría el siguiente cálculo: $200,000 / 100 = $2,000 por empleado.
+
+
+
+En caso de que el modelo no se ajuste a su compañía, favor de capture el valor más cercano.Este campo solo admite valores numéricos. Omitir símbolos de moneda y/o comas."
+p127,"Transporte -  Aproximadamente ¿Cuál es la distancia máxima, en Kilómetros,  que recorre su ruta de transporte más lejana?En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p128,Transporte - Por favor seleccione en caso de conocer las características con las que cuenta el transporte que utilizan sus empleados
+p129,¿Otorga el servicio de comedor como prestación a sus empleados?
+p130,Comedor - ¿A qué personal le ofrece la prestación de Comedor?
+p131,"¿Cuántos colaboradores hacen uso efectivo de esta prestación?Arrastre la barra o capture el porcentaje del personal que usa este beneficio.Considere el 100% como todos los colaboradores que tienen este beneficio lo usan activamente.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana..6"
+p132,"Comedor - ¿Cuál es costo promedio por platillo de su comedor? Desglose cuánto se le cobra al empleado y cuánto paga la empresa por platillo.En caso de que el modelo no se ajuste a su compañía, favor de capture el valor más cercano.Este campo solo admite valores numéricos. Omitir símbolos de moneda y/o comas. Omitir decimales."
+p133,¿Cuenta con alguna Política de Relocalización o apoyo para traslados hacia al trabajo como prestación a sus empleados que viven a más de 100 KM?
+p134,"Relocalización - ¿Ofrece alguna de las siguientes prestaciones como parte de su Política de Relocalización para sus empleados que son contratados en un rango mayor a 100 km de su hogar?:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p135,"¿Cuántos colaboradores tienen esta prestación?Este campo acepta solo números enteros, omitir signos de puntuación o de porcentaje.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la opción más cercana."
+p136,"Seleccione los servicios de subcontratación que ocupa (outsourcing).En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Seleccione al menos una (1) opción."
+p137,"De acuerdo a su selección anterior de los servicios externos (outsourcing) que tiene contratados, por favor capture el nombre de su principal proveedor de estos servicios."
+p138,"Por favor, seleccione la calificación de 0 a 10 que daría a los servicios de subcontratación.0 equivale un pésimo servicio, 10 equivale a un excelente servicio."
+p139,"¿Cuál es el principal medio que utilizan para reclutar a su personal operativo?En porcentaje, que tanto utilizan cada fuente para sus contrataciones de Personal Operativo.Considere una escala del 0 al 10 para especificar el nivel de usabilidad de cada fuente. En caso de no usar dicha fuente puede dejar en blanco.Por favor seleccione al menos una (1) opción."
+p140,"¿Cuál es el principal medio que utilizan para reclutar a su personal técnico?En porcentaje, que tanto utilizan cada fuente para sus contrataciones de personal técnico.Considere una escala del 0 al 10 para especificar el nivel de usabilidad de cada fuente. En caso de no usar dicha fuente puede dejar en blanco.Por favor seleccione al menos una (1) opción."
+p141,"¿Cuál es el principal medio que utilizan para reclutar a su personal administrativo?En porcentaje, que tanto utilizan cada fuente para sus contrataciones de personal administrativo.Considere una escala del 0 al 10 para especificar el nivel de usabilidad de cada fuente. En caso de no usar dicha fuente puede dejar en blanco.Por favor seleccione al menos una (1) opción."
+p142,"¿Cuál es el principal medio que utilizan para reclutar a su personal gerencial?En porcentaje, que tanto utilizan cada fuente para sus contrataciones de personal gerencial.Considere una escala del 0 al 10 para especificar el nivel de usabilidad de cada fuente. En caso de no usar dicha fuente puede dejar en blanco.Por favor seleccione al menos una (1) opción."
+p143,Semestral - 75% ¿Deseas continuar ahora  con el resto de la encuesta o requieres tomar un break?
+p144,"Avance - 90% ¿Cuántos empleados operativos planean ser en promedio dentro de 1 año (Enero 2025)?En caso de no tener contemplado un crecimiento, capture el número actual de empleados reportados ([P50]).Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p145,"¿Cuántos empleados administrativos planean ser en promedio dentro 1 año (Enero 2025)?En caso de no tener contemplado un crecimiento, capture el número actual de empleados reportados ([P51]).Este campo solo admite números enteros. Omitir símbolos de moneda y/o comas."
+p146,"¿Contrata practicantes en su compañía?Por favor seleccione si contrata practicantes o estudiantes para hacer prácticas profesionales. Aplica también a las personas del programa ""Jóvenes Construyendo el Futuro""."
+p147,"¿Cuántos practicantes tiene actualmente?Por favor, especifique cuántos son Estudiantes y cuántos son por medio del programa ""Jóvenes Construyendo el Futuro"" según corresponda.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.En caso de no tener practicantes, selecciones la opción ""No Aplica""."
+p148,"¿Cuánto es el apoyo económico que reciben mensualmente en promedio por parte de su compañía?En el caso de las personas de ""Jóvenes Construyendo el Futuro"", capture el monto adicional a lo que reciben por parte de Goberno Federal.En caso de que el modelo no se ajuste a su compañía, favor de capture el valor más cercano.Este campo solo admite valores numéricos. Omitir símbolos de moneda y/o comas.En caso de no dar algún apoyo, capture cero ""0""."
+p149,"Por favor, seleccione las áreas donde contrata practicantes:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Seleccione al menos una (1) opción."
+p150,"Por favor, seleccione los beneficios adicionales que otorga a sus practicantesEn caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Seleccione al menos una (1) opción."
+p151,"Por favor, seleccione los turnos y horarios que actualmente tiene en su compañía. Considere los turnos de su personal operativo y administrativo:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Puede seleccionar más de una (1) opción."
+p152,"¿Su personal operativo tiene la opción de Rotar o rolar turnos?En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana."
+p153,¿Su compañía maneja jornadas de 12 horas en niveles operativos?
+p154,"Para su personal administrativo o de oficina, ¿cuentan con algún beneficio adicional en su jornada laboral?Por favor, seleccione la opción que más se ajuste a su compañía."
+p155,"Por favor, seleccione algún o algunos otros beneficios que su personal tiene la opción de elegir:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Puede seleccionar más de una (1) opción."
+p156,"Seleccione algunos convenios con terceros que ofrece gratuitamente a sus empleados:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Por favor, seleccione al menos una opción."
+p157,"Seleccione el o los eventos que ofrece gratuitamente a sus empleados:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Por favor, seleccione al menos una opción."
+p158,"Seleccione los programas de ideas de mejora que implementa con sus empleados:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Por favor, seleccione al menos una opción."
+p159,"Seleccione por favor, el o los tipos de premios o incentivos que ofrece:En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.Por favor, seleccione al menos una opción."
+p160,"¿Otorga algún bono de permanencia a sus empleados?Entiéndase como ""Bono de permanencia o de antigüedad"" a aquellos incentivos que ofrecen a algunos empleados con el objetivos de retenerlos en su plantilla de acuerdo al tiempo que llevan laborando en su compañía""."
+p161,Bono de Permanencia - ¿A qué personal le ofrece esta prestación?
+p162,"Bono de Permanencia - ¿A partir de qué tiempo el colaborador puede ser acreedor a este bono tomando en cuenta su antigüedad en la compañía?Considere al Personal Técnico dentro de la categoría ""Personal Operativo"".En caso de tomar el mismo criterio para todas las categorías, solo capturar la fila ""Todo el personal"".En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.En caso de no contar con esta prestación, seleccione la opción ""Desconocido""."
+p163,"Bono de Permanencia - ¿Otorga este bono en ""Efectivo"" o en ""Porcentaje de acuerdo al salario del beneficiario""?Seleccione la columna correspondiente si otorga este bono:""En efectivo"" - Se le da una determinada cantidad en efectivo, ""En porcentaje"" - Se le da un porcentaje de acuerdo a su salario.Considere al Personal Técnico dentro de la categoría ""Personal Operativo"".En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.En caso de que otorgue este bono de otra forma, seleccione ""No Aplica"".En caso de no contar con esta prestación, seleccione la opción ""Desconocido""."
+p164,"Bono de Permanencia - Si otorgan este bono ""En Especie"", seleccione las opciones que aplican a su compañía.En caso de que el modelo no se ajuste a su compañía, favor de seleccionar la casilla más cercana.En caso de no contar con esta prestación, seleccione la opción ""No Aplica""."
+p165,"Por favor, del siguiente listado seleccione algunas prácticas que actualmente tiene implementadas en su compañía.En caso de que el modelo no se ajuste a su compañía, seleccione la casilla más cercana.En caso de que no cuente con algún esquema de responsabilidad social, seleccione ""No Aplica""."
+p166,Semestral - 100% ¿Es la primer ocasión que usted participa en la encuesta?

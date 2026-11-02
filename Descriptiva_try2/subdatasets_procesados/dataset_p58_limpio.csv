@@ -1,0 +1,42 @@
+p1_compania,p58_incremento_en_fondo_ahorro,p58_incremento_en_vales_despensa,p58_incremento_en_aguinaldo,p58_incremento_en_dias_feriados,p58_incremento_en_prima_vacacional,p58_uniformes,p58_bono_por_antiguedad,p58_bono_por_puntualidad,p58_bono_por_asistencia,p58_ayuda_por_defuncion,p58_ayuda_por_maternidad,p58_ayuda_por_paternidad,p58_ayuda_escolar_utiles,p58_ayuda_escolar_uniformes,p58_ayuda_por_matrimonio,p58_ayuda_deportiva,p58_seguro_de_gastos_medicos_menores,p58_seguro_de_gastos_medicos_mayores,p58_seguro_de_gastos_medicos_para_la_familia_del_trabajador,p58_ninguno,p58_otro_especifique
+COMPAÑIA 1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 2,1,1,1,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 3,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 4,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Nos toca negociación salarial
+COMPAÑIA 6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,tenemos un bono de producción de hasta el 10%
+COMPAÑIA 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 9,0,1,1,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 10,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 12,1,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,0,0,
+COMPAÑIA 13,0,1,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 14,1,0,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Aún no se define
+COMPAÑIA 16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 17,0,1,0,0,0,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 21,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,Bono por 6 meses sin accidentes
+COMPAÑIA 22,0,0,1,0,0,0,0,0,0,1,1,0,1,0,1,0,0,0,0,0,
+COMPAÑIA 23,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 24,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 25,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Las prestaciones ligadas al Sueldo, Fondo de ahorro, vales de despensa, Aguinaldo;"
+COMPAÑIA 30,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 31,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0,
+COMPAÑIA 32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,No nos toca revisar prestaciones
+COMPAÑIA 33,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Hasta el momento no contamos con información final.
+COMPAÑIA 35,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,0,1,0,
+COMPAÑIA 36,1,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,Permiso con goce por cumpleaños
+COMPAÑIA 37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,La revisión es solo salarial
+COMPAÑIA 38,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 39,0,0,1,1,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 40,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

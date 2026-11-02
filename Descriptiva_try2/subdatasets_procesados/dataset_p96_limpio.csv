@@ -1,0 +1,42 @@
+p1_compania,p96_comunicacion_interna,p96_correo_electronico,p96_oficio_por_escrito,p96_publicacion_en_periodico,p96_publicacion_en_varios_medios_impresos,p96_publicacion_en_redes_sociales,p96_radio,p96_sesion_informativa,p96_television,p96_via_telefonica,p96_otro_especifique
+COMPAÑIA 1,1,0,0,0,0,1,0,0,0,0,
+COMPAÑIA 2,1,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 3,1,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 4,0,0,0,0,0,0,0,1,0,0,
+COMPAÑIA 5,1,0,1,0,0,1,0,0,0,0,
+COMPAÑIA 6,0,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 7,0,0,0,1,1,0,0,1,1,1,
+COMPAÑIA 8,0,0,0,0,1,1,0,0,0,1,
+COMPAÑIA 9,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 10,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 11,1,0,0,0,0,0,0,1,0,0,
+COMPAÑIA 12,1,1,1,0,0,0,0,0,0,0,
+COMPAÑIA 13,1,0,0,0,0,0,0,1,0,1,
+COMPAÑIA 14,1,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 15,1,1,0,0,0,0,0,0,0,0,
+COMPAÑIA 16,1,1,0,1,0,0,0,0,0,0,
+COMPAÑIA 17,1,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 18,1,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 19,1,0,0,1,0,0,0,0,0,0,sindicato
+COMPAÑIA 20,1,0,0,0,0,1,0,0,0,0,
+COMPAÑIA 21,1,1,0,0,0,0,0,0,0,0,
+COMPAÑIA 22,1,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 23,1,1,0,0,0,0,0,0,0,0,
+COMPAÑIA 24,1,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 25,1,1,0,0,0,1,0,0,0,1,Uso de PAD (app móvil)
+COMPAÑIA 26,1,0,0,0,1,0,0,1,0,1,
+COMPAÑIA 27,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 28,1,1,0,0,1,0,0,0,0,0,Junta de comunicación
+COMPAÑIA 29,1,1,0,1,0,0,0,1,0,1,tableros informativos
+COMPAÑIA 30,1,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 31,1,0,0,1,1,0,0,1,0,0,La publicación en periódico es para los ex trabajadores
+COMPAÑIA 32,1,0,1,0,0,0,0,0,0,1,En los tableros de comunicación y se hace el comunicado con el sindicato.
+COMPAÑIA 33,1,0,0,0,0,0,0,0,0,0,"A partir de este año 2024, se considera un bono garantía por no generar utilidades, el cual se considera por una cantidad de $1,000.00, el cual se reflejara en Vales de Despensa en el mes de mayo"
+COMPAÑIA 34,1,0,0,0,0,0,0,0,0,0,Secretario Sindical
+COMPAÑIA 35,1,1,0,0,0,0,0,0,0,0,
+COMPAÑIA 36,1,1,1,0,1,1,0,1,0,0,
+COMPAÑIA 37,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 38,1,0,1,1,0,0,0,0,0,0,
+COMPAÑIA 39,1,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 40,1,0,0,0,0,0,0,1,0,1,
+,0,0,0,0,0,0,0,0,0,0,

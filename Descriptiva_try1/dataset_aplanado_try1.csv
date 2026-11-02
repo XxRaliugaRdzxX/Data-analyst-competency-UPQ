@@ -1,0 +1,41 @@
+p1_componentes_partes_y_sistemas,p1_chasis_y_carroceria,p1_tren_motriz,p1_partes_electricas_y_electronicas,p1_exteriores,p1_partes_y_productos_generales,p1_interiores,p1_powertrain,p1_ruedas_y_llantas,p1_procesos_de_manufactura_y_fabricacion,p1_metal_forming_conformado_de_metal,p1_plastic_molding_moldeo_de_plastico,p1_hule_o_caucho,p1_tratamiento_de_superficies,p1_tratamiento_termico,p1_no_aplica,p1_otros_especifique,p2_arnesera,p2_carton_fibra_panel_de_madera,p2_electronico_electronica,p2_fundicion,p2_interiores_textil_piel,p2_metalmecanica,p2_plasticos,p2_quimicos_solventes_y_adhesivos,p2_recubrimientos,p2_vidrios_laminados,p2_no_aplica,p2_otro_especifique,p3_tier_1,p3_tier_2,p3_tier_3,p3_oem,p3_no_aplica_no_somos_proveedores_de_la_industria_automotriz
+"Componentes, partes y sistemas",,,,,,,,,,,,,,,,,,,,,,,,,Recubrimientos,,,,Tier 1,Tier 2,,,
+"Componentes, partes y sistemas",,,,,,,,,,,,,,,,,,,,,,,,,,,,Ensamblaje,,,,,NO APLICA. No somos proveedores de la industria automotriz.
+,,,,,,,,,,Metal forming / conformado de metal,,,,,,soldadura laser,,,,,,Metalmecánica,,,,,,,Tier 1,Tier 2,,,
+"Componentes, partes y sistemas",,,Partes eléctricas y electrónicas,,,,,,Procesos de manufactura y fabricación,,,,,,,,Arnesera,,Electrónico / Electrónica,,,,Plásticos,,,,,,,Tier 2,Tier 3,,
+,,,,,,,,,,Metal forming / conformado de metal,,,Tratamiento de superficies,Tratamiento térmico,,,,,,,,Metalmecánica,,,,,,,,Tier 2,,,
+"Componentes, partes y sistemas",,,Partes eléctricas y electrónicas,Exteriores,,,,,,,,,,,,,,,,,,Metalmecánica,,,,,,,,,,,NO APLICA. No somos proveedores de la industria automotriz.
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Componentes, partes y sistemas",,,,,Partes y productos generales,,,,Procesos de manufactura y fabricación,Metal forming / conformado de metal,,,,,,MAQUINADOS Y FABRICACIONES DE PIEZAS ESPECIALIZADAS,,,,Fundición,,Metalmecánica,,,,,,,,,,,NO APLICA. No somos proveedores de la industria automotriz.
+"Componentes, partes y sistemas",Chasis y carrocería,,,,,,,,Procesos de manufactura y fabricación,Metal forming / conformado de metal,,,,,,,,,,,,Metalmecánica,,,,,,,,Tier 2,,,
+,,,,,,,,,,Metal forming / conformado de metal,,,,,,,,,,Fundición,,Metalmecánica,,,,,,,,Tier 2,,,
+,,,,,,,,,Procesos de manufactura y fabricación,,,,,,,"Fabricación y reciclaje de acumuladores, filtros y lubricantes",,,,Fundición,,,,Químicos / Solventes y adhesivos,,,,,Tier 1,,,,
+,,,,,,,,,,Metal forming / conformado de metal,,,,,,Corte y comercialización de acero,,,,,,Metalmecánica,,,,,,,,,Tier 3,,
+"Componentes, partes y sistemas",,,,,Partes y productos generales,,,,Procesos de manufactura y fabricación,,,,,,,Herramentales y fixtures,Arnesera,,,,,Metalmecánica,,,,,,,,Tier 2,,,
+,,,,,,,,,,,,,,,,Muebles,,,,,,,,,,,,Muebles,,,,,NO APLICA. No somos proveedores de la industria automotriz.
+,,,,,,,,,Procesos de manufactura y fabricación,Metal forming / conformado de metal,,,,,,,,,,,,Metalmecánica,,,,,,,,,,,NO APLICA. No somos proveedores de la industria automotriz.
+,,,Partes eléctricas y electrónicas,,,,,,,,,,,,,,Arnesera,,,,,,,,,,,,Tier 1,Tier 2,,,
+,,,,,,,,,,,,,,,,bujes y arandelas,,,,,,Metalmecánica,,,,,,,Tier 1,,,,
+"Componentes, partes y sistemas",,,,,,Interiores,,,Procesos de manufactura y fabricación,,,,,,,,,,,,,Metalmecánica,,,,,,,,Tier 2,,,
+,Chasis y carrocería,,,,,,,,,,,,,,,,,,,,,Metalmecánica,,,,,,,Tier 1,,,,
+,Chasis y carrocería,,,,,,,,,,,,,,,,,,,,,Metalmecánica,,,,,,,Tier 1,,,,
+,,,Partes eléctricas y electrónicas,,,,,,,Metal forming / conformado de metal,Plastic molding / moldeo de plástico,,,,,,,,Electrónico / Electrónica,,,,,,,,,,Tier 1,,,,
+,,,,,,,,,Procesos de manufactura y fabricación,,,,,,,,,,,,,Metalmecánica,,,,,,,,,,,NO APLICA. No somos proveedores de la industria automotriz.
+,,,,,,,,,,,,,,,,POLÍMEROS,,,,,,,Plásticos,,,,,,,Tier 2,,,
+"Componentes, partes y sistemas",,,,,,,,,Procesos de manufactura y fabricación,,,,,,,,,,,,,Metalmecánica,,,,,,,,Tier 2,,,
+,,,,,,,,,,,Plastic molding / moldeo de plástico,,,,,,,,,,,,Plásticos,,,,,,Tier 1,Tier 2,,,
+"Componentes, partes y sistemas",,,,,,,,,,,,,,,,,,,,,Interiores /Textil / Piel,,,,,,,,,Tier 2,Tier 3,,
+,,,,,,,,,Procesos de manufactura y fabricación,,,,,,,,,,,Fundición,,Metalmecánica,,,,,,,Tier 1,,,,
+,,,,,,,,,,,,,,,,EXTRUSIÓN PLÁSTICO PELLETS,,,,,,,Plásticos,,,,,,,Tier 2,,,
+,,,,,,,,,Procesos de manufactura y fabricación,,,,,,,,,,,,,Metalmecánica,,,,,,,Tier 1,Tier 2,,,
+"Componentes, partes y sistemas",Chasis y carrocería,,,,,,,,,,,,,Tratamiento térmico,,METALMECANICA,,,Electrónico / Electrónica,,,Metalmecánica,,,,,,,Tier 1,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,Partes eléctricas y electrónicas,,,,,,,,,,,,,,,,Electrónico / Electrónica,,,,,,,,,,,Tier 2,,,
+,,,,,,,,,Procesos de manufactura y fabricación,Metal forming / conformado de metal,,,,,,,,,,,,Metalmecánica,,,Recubrimientos,,,,Tier 1,,,,
+"Componentes, partes y sistemas",,,,,,,,,,,,,,,,,Arnesera,,,,,Metalmecánica,,,,,,,Tier 1,Tier 2,,,
+"Componentes, partes y sistemas",,,,,,,,,,,,,,,,,,,,,,,Plásticos,,,,,,Tier 1,,,,
+"Componentes, partes y sistemas",,,,,,,,,,,,,,Tratamiento térmico,,,,,,,,Metalmecánica,,,,,,,Tier 1,Tier 2,,,

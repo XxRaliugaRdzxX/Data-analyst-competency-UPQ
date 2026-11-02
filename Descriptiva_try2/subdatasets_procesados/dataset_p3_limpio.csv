@@ -1,0 +1,42 @@
+p1_compania,p3_componentes_partes_y_sistemas,p3_chasis_y_carroceria,p3_tren_motriz,p3_partes_electricas_y_electronicas,p3_exteriores,p3_partes_y_productos_generales,p3_interiores,p3_powertrain,p3_ruedas_y_llantas,p3_procesos_de_manufactura_y_fabricacion,p3_metal_forming_conformado_de_metal,p3_plastic_molding_moldeo_de_plastico,p3_hule_o_caucho,p3_tratamiento_de_superficies,p3_tratamiento_termico,p3_no_aplica,p3_otros_especifique
+COMPAÑIA 1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 2,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 3,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,soldadura laser
+COMPAÑIA 4,1,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 5,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,
+COMPAÑIA 6,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 12,1,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,MAQUINADOS Y FABRICACIONES DE PIEZAS ESPECIALIZADAS
+COMPAÑIA 13,1,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,
+COMPAÑIA 14,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,
+COMPAÑIA 15,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,"Fabricación y reciclaje de acumuladores, filtros y lubricantes"
+COMPAÑIA 16,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,Corte y comercialización de acero
+COMPAÑIA 17,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,Herramentales y fixtures
+COMPAÑIA 18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Muebles
+COMPAÑIA 19,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,
+COMPAÑIA 20,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bujes y arandelas
+COMPAÑIA 22,1,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 23,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 24,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 25,0,0,0,1,0,0,0,0,0,0,1,1,0,0,0,0,
+COMPAÑIA 26,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,POLÍMEROS
+COMPAÑIA 28,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 29,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,
+COMPAÑIA 30,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 31,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,EXTRUSIÓN PLÁSTICO PELLETS
+COMPAÑIA 33,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,
+COMPAÑIA 34,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,METALMECANICA
+COMPAÑIA 35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 36,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 37,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,
+COMPAÑIA 38,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 39,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 40,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,

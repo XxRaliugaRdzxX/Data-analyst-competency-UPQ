@@ -1,0 +1,42 @@
+p1_compania,p149_logistica,p149_calidad,p149_produccion,p149_contabilidad_y_finanzas,p149_recursos_humanos,p149_mantenimiento,p149_ingenieria,p149_no_aplica,p149_otro_especifique
+COMPAÑIA 1,1,1,1,1,1,1,1,0,
+COMPAÑIA 2,1,1,1,1,1,1,1,0,
+COMPAÑIA 3,0,1,1,0,1,1,1,0,
+COMPAÑIA 4,1,1,1,0,0,1,0,0,
+COMPAÑIA 5,1,1,0,0,1,1,1,0,
+COMPAÑIA 6,0,0,1,1,0,0,1,0,
+COMPAÑIA 7,1,1,1,1,1,1,1,0,
+COMPAÑIA 8,1,1,1,1,1,0,1,0,
+COMPAÑIA 9,0,0,0,0,0,0,0,0,
+COMPAÑIA 10,1,1,0,0,1,1,1,0,
+COMPAÑIA 11,1,1,1,1,1,1,1,0,
+COMPAÑIA 12,1,1,1,1,1,1,1,0,
+COMPAÑIA 13,0,1,1,1,1,1,1,0,
+COMPAÑIA 14,0,0,0,0,0,1,1,0,
+COMPAÑIA 15,1,1,0,1,1,0,1,0,
+COMPAÑIA 16,0,0,0,0,0,0,0,0,
+COMPAÑIA 17,0,0,1,0,0,0,1,0,
+COMPAÑIA 18,0,0,0,0,0,0,0,0,
+COMPAÑIA 19,1,1,0,1,1,1,1,0,SISTEMAS
+COMPAÑIA 20,1,1,1,1,1,1,1,0,
+COMPAÑIA 21,1,1,1,0,0,1,1,0,"Compras, Comercio Exterior"
+COMPAÑIA 22,1,1,1,1,1,1,1,0,
+COMPAÑIA 23,1,1,1,1,1,1,1,0,
+COMPAÑIA 24,1,1,1,1,1,1,1,0,
+COMPAÑIA 25,1,1,0,1,1,0,1,0,Compras
+COMPAÑIA 26,0,0,0,0,0,0,0,0,
+COMPAÑIA 27,0,0,0,0,0,0,0,0,
+COMPAÑIA 28,1,1,1,1,1,1,1,0,
+COMPAÑIA 29,0,0,1,0,0,0,0,0,
+COMPAÑIA 30,0,0,0,0,0,0,0,0,
+COMPAÑIA 31,1,0,0,0,1,0,1,0,EHS y Compras
+COMPAÑIA 32,0,1,0,0,1,1,0,0,EHSS
+COMPAÑIA 33,0,0,0,0,0,1,0,0,
+COMPAÑIA 34,1,1,1,1,1,1,1,0,Controlling
+COMPAÑIA 35,1,0,1,0,0,1,1,0,
+COMPAÑIA 36,1,1,1,1,1,1,1,0,
+COMPAÑIA 37,1,1,1,1,1,1,1,0,
+COMPAÑIA 38,1,1,1,1,1,1,1,0,import export
+COMPAÑIA 39,1,1,1,1,1,0,0,0,
+COMPAÑIA 40,1,1,1,1,1,1,1,0,
+,0,0,0,0,0,0,0,0,

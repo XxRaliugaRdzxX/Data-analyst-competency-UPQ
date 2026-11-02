@@ -1,0 +1,42 @@
+p1_compania,p150_transportacion_gratuita,p150_comedor_gratuito,p150_vales_de_despensa,p150_aguinaldo_o_bono_anual,p150_utiles_escolares,p150_beca_de_licenciatura_o_ingenieria,p150_beca_de_posgrado,p150_no_aplica,p150_otro_especifique
+COMPAÑIA 1,1,1,0,0,0,0,0,0,entrenamiento
+COMPAÑIA 2,1,1,0,0,0,0,0,0,
+COMPAÑIA 3,0,1,0,0,0,0,0,0,
+COMPAÑIA 4,0,0,0,0,0,0,0,1,
+COMPAÑIA 5,0,0,0,0,0,0,0,1,
+COMPAÑIA 6,1,1,0,0,0,0,0,0,
+COMPAÑIA 7,1,1,0,0,0,0,0,0,
+COMPAÑIA 8,0,1,0,0,0,0,0,0,
+COMPAÑIA 9,0,0,0,0,0,0,0,0,
+COMPAÑIA 10,1,1,0,0,0,0,0,0,
+COMPAÑIA 11,1,0,0,0,0,0,0,0,
+COMPAÑIA 12,0,0,0,1,0,1,0,0,
+COMPAÑIA 13,0,0,0,0,0,0,0,1,
+COMPAÑIA 14,1,1,0,0,0,0,0,0,
+COMPAÑIA 15,0,1,0,0,0,0,0,0,
+COMPAÑIA 16,0,0,0,0,0,0,0,0,
+COMPAÑIA 17,0,0,0,0,0,0,0,1,
+COMPAÑIA 18,0,0,0,0,0,0,0,0,
+COMPAÑIA 19,0,1,0,1,0,0,0,0,VACACIONES Y PRIMA VACACIONAL
+COMPAÑIA 20,1,1,0,0,0,0,0,0,
+COMPAÑIA 21,0,1,0,0,0,0,0,0,Uniformes y zapatos de seguridad
+COMPAÑIA 22,0,0,0,0,0,0,0,1,
+COMPAÑIA 23,1,1,0,1,0,0,0,0,Uniformes y Epp
+COMPAÑIA 24,1,0,0,0,0,0,0,0,
+COMPAÑIA 25,0,1,0,0,0,0,0,0,
+COMPAÑIA 26,0,0,0,0,0,0,0,0,
+COMPAÑIA 27,0,0,0,0,0,0,0,0,
+COMPAÑIA 28,1,0,0,0,0,0,0,0,
+COMPAÑIA 29,0,1,0,1,0,0,0,0,
+COMPAÑIA 30,0,0,0,0,0,0,0,0,
+COMPAÑIA 31,1,1,0,0,0,0,0,0,Playera
+COMPAÑIA 32,1,0,0,0,0,0,0,0,"Participan en nuestros reconocimientos, en los eventos, se les regala un pastel el día de su cumpleaños para que lo compartan con sus familias y en nuestro programa app HEADSPACE que ayuda al bienestar"
+COMPAÑIA 33,1,1,0,0,0,0,0,0,
+COMPAÑIA 34,1,1,0,1,0,0,0,0,Vacaciones
+COMPAÑIA 35,0,1,0,0,0,0,0,0,
+COMPAÑIA 36,1,1,0,0,0,0,0,0,
+COMPAÑIA 37,0,1,0,0,0,0,0,0,"Seguro contra accidentes , convenio con Caintra"
+COMPAÑIA 38,1,0,0,0,0,0,0,0,apoyo economico
+COMPAÑIA 39,0,1,0,1,0,0,0,0,
+COMPAÑIA 40,1,1,0,0,0,0,0,0,
+,0,0,0,0,0,0,0,0,

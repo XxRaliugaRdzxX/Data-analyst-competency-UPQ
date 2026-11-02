@@ -1,0 +1,42 @@
+p1_compania,p82_vales_de_despensa_personal_operativo_ofertado,p82_vales_de_despensa_personal_administrativo_ofertado,p82_vales_de_despensa_personal_gerencial_ofertado,p82_fondo_de_ahorro_personal_operativo_ofertado,p82_fondo_de_ahorro_personal_administrativo_ofertado,p82_fondo_de_ahorro_personal_gerencial_ofertado,p82_esta_topada_o_tiene_un_limite_alguna_de_estas_prestaciones_especifique
+COMPAÑIA 1,0.15,0.05,0.0,0.08,0.08,0.08,
+COMPAÑIA 2,0.11,0.1,0.1,0.085,0.13,0.13,vales y Fondo tope de deducibilidad fiscal
+COMPAÑIA 3,0.105,0.105,0.105,0.095,0.095,0.095,Topado a una UMA en vales y a ley en fondo
+COMPAÑIA 4,0.09,0.09,0.12,0.03,0.03,0.1,Topada
+COMPAÑIA 5,0.09,0.09,0.1,0.06,0.06,0.07,Vales de despensa topados acorde la LFT
+COMPAÑIA 6,0.12,0.09,0.09,0.1,0.08,0.08,Ambas
+COMPAÑIA 7,0.06,0.12,0.12,0.11,0.13,0.11,
+COMPAÑIA 8,0.06,0.08,0.08,0.06,0.08,0.08,topados
+COMPAÑIA 9,0.1,0.13,0.13,0.0,0.13,0.13,
+COMPAÑIA 10,0.0,0.0,0.0,0.0,0.0,0.0,
+COMPAÑIA 11,0.0,0.0,0.0,0.0,0.0,0.0,
+COMPAÑIA 12,0.15,0.2,0.2,0.15,0.2,0.2,SI ESTAN TOPADOS SEGUN LEY
+COMPAÑIA 13,0.055,0.04,0.04,0.06,0.06,0.06,Fondo de Ahorro y despensa Topados
+COMPAÑIA 14,0.12,0.09,0.09,0.06,0.08,0.09,topado
+COMPAÑIA 15,0.045,0.045,0.045,0.13,0.13,0.13,"Tope en vale $2,500 , FA - tope de ley "
+COMPAÑIA 16,0.09,0.08,0.06,0.065,0.06,0.06,
+COMPAÑIA 17,0.1,0.1,0.1,0.0,0.0,0.0,si limitado
+COMPAÑIA 18,0.1,0.1,0.1,0.05,0.1,0.1,topado
+COMPAÑIA 19,0.105,0.105,0.105,0.13,0.13,0.13,NO
+COMPAÑIA 20,0.08,0.08,0.08,0.06,0.06,0.06,No
+COMPAÑIA 21,0.13,0.13,0.13,0.12,0.13,0.13,"Si ambas, diferencia se paga en efectivo"
+COMPAÑIA 22,0.07,0.02,0.02,0.07,0.07,0.07,
+COMPAÑIA 23,0.07,0.1,0.1,0.06,0.13,0.13,Topado
+COMPAÑIA 24,0.12,0.13,0.13,0.08,0.13,0.13,
+COMPAÑIA 25,0.085,0.095,0.095,0.085,0.095,0.095,No
+COMPAÑIA 26,0.105,0.15,0.15,0.12,0.13,0.13,DESPENSA TOPADA A $2500
+COMPAÑIA 27,0.0,0.06,0.06,0.0,0.07,0.07,TOPADO ISR
+COMPAÑIA 28,0.08,0.1,0.1,0.08,0.1,0.1,ambos con tope de Ley
+COMPAÑIA 29,0.1,0.1,0.1,0.07,0.07,0.07,no
+COMPAÑIA 30,0.1,0.1,0.1,0.1,0.1,0.1,"si, el tope pago isr"
+COMPAÑIA 31,0.09,0.09,0.09,0.07,0.08,0.08,Topado de acuerdo a Ley
+COMPAÑIA 32,0.08,0.1,0.1,0.13,0.13,0.13,Topado
+COMPAÑIA 33,0.085,0.05,0.05,0.065,0.07,0.07,
+COMPAÑIA 34,0.12,0.1,0.1,0.08,0.07,0.07,Vales de despensa topado a 30 UMAS
+COMPAÑIA 35,0.0,0.0,0.0,0.0,0.0,0.0,
+COMPAÑIA 36,0.09,0.075,0.075,0.09,0.09,0.09,TOPE LEGAL
+COMPAÑIA 37,0.105,0.1,0.1,0.11,0.13,0.13,Conforme a topes legales
+COMPAÑIA 38,0.1,0.1,0.1,0.06,0.06,0.06,
+COMPAÑIA 39,0.095,0.085,0.085,0.11,0.085,0.085,No esta topado
+COMPAÑIA 40,0.12,0.12,0.12,0.095,0.095,0.095,TOPADA
+,0.0,0.0,0.0,0.0,0.0,0.0,

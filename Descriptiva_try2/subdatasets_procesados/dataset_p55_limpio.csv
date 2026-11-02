@@ -1,0 +1,42 @@
+p1_compania,p55_incremento_en_fondo_ahorro,p55_incremento_en_vales_despensa,p55_incremento_en_aguinaldo,p55_incremento_en_dias_feriados,p55_incremento_en_prima_vacacional,p55_uniformes,p55_bono_por_antiguedad,p55_bono_por_puntualidad,p55_bono_por_asistencia,p55_ayuda_por_defuncion,p55_ayuda_por_maternidad,p55_ayuda_por_paternidad,p55_ayuda_escolar_utiles,p55_ayuda_escolar_uniformes,p55_ayuda_por_matrimonio,p55_ayuda_deportiva,p55_seguro_de_gastos_medicos_menores,p55_seguro_de_gastos_medicos_mayores,p55_seguro_de_gastos_medicos_para_la_familia_del_trabajador,p55_ninguno,p55_otro_especifique
+COMPAÑIA 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Bono de productividad
+COMPAÑIA 2,1,1,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,bono lider
+COMPAÑIA 4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Solo fué revisión salarial
+COMPAÑIA 6,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 7,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,
+COMPAÑIA 8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 9,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,Aguinaldo
+COMPAÑIA 10,0,0,1,0,1,0,0,1,1,1,0,0,1,0,0,0,0,1,1,0,Bono de producción
+COMPAÑIA 11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 12,1,1,0,0,0,1,1,1,1,0,1,0,0,0,0,1,0,1,1,0,
+COMPAÑIA 13,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 14,0,1,0,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 15,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,
+COMPAÑIA 16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 17,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 18,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Bono por productividad
+COMPAÑIA 19,0,0,1,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,Becas
+COMPAÑIA 20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,Bono por Gestion sindical
+COMPAÑIA 22,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0,
+COMPAÑIA 23,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 24,1,1,1,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 25,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 26,1,1,0,0,1,0,0,0,0,1,1,1,0,0,1,0,0,0,0,0,
+COMPAÑIA 27,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 28,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,
+COMPAÑIA 29,1,1,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 30,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,
+COMPAÑIA 32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Este año solo se reviso salarios
+COMPAÑIA 33,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,"Las prestaciones extraordinarias que otorga la empresa se ven modificadas acorde al incremento al salario, esto por ser calculadas acorde al ingreso que recibe cada empleado.  Principalmente se modifican: Fondo de Ahorro, Vales de Despensa.  Se crea un Bono Garantía por no generar Utilidades"
+COMPAÑIA 34,0,1,1,0,1,0,0,1,1,1,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 35,0,0,1,1,1,1,1,1,1,1,1,1,1,0,1,0,0,1,1,0,
+COMPAÑIA 36,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,AUMENTO DE CATEGORIA (ULTIMA)
+COMPAÑIA 37,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,este año no corresponde
+COMPAÑIA 38,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 39,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+COMPAÑIA 40,1,1,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,
+,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
